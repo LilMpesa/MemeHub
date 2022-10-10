@@ -1,0 +1,702 @@
+[
+    {
+        "ads": "t",
+        "meme": "https://lilmpesa.sirv.com/MemeFlix/status_me_status_IMG-20220903-WA0004.jpg",
+        "nav": "f",
+        "pay": "f",
+        "title": "Haga kubwa huwa praised kwa public lakini kwa mechi petites are winning😂😂"
+    },
+    {
+        "ads": "f",
+        "meme": "But men are good people ,you just got the wrong guy babe 😂✌️",
+        "nav": "f",
+        "pay": "f",
+        "title": "Haga kubwa huwa praised kwa public lakini kwa mechi petites are winning😂😂"
+    },
+    {
+        "ads": "f",
+        "meme": "Nani aliita daktari wa mbwa vet badala ya dogtar?🤔😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "I sometimes feel like beating myself when I am having a conversation with myself 😂😩",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Campus life ni ngumu sana unapata msee wa criminology anapigwa ngeta na msee wa Hospitality 💀😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Angel:  I can't find your name in the \n              book of life 📖😟\n\n: Reply as a Kenyan.. ☹️😲😆😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kama bado unaogaga ukiwa uchi, you have a long way to go😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Mbona machozi ya zamani ilikua na chumvi mingi kuliko ya saai?😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kuongea ukweli kwani hawa madem wa kenya hawanaga clit🤔😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "I agree with the fact that;using GB WhatsApp is enough reason why you should dump someone.😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Nothing feels good than kupea boy handshake after ameleta hug😂😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Kama bado uko uhai,you have a long way to go😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Marrying an orphan to avoid paying dowry💀💀😂😹",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Highschool had real gangsters ni Nini ishawahi ibiwa highschool yenu na wanafunzi ukawaheshimu🤔😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unainama lunch karibu na gay unashangaa ashaingiza.😹🙌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "She calls me bloodyfucking coz I hit it durring her periods💀💀😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "hauja panda ndege,hauja skydive,hauja panda boat ....sasa tofauti yako na mbuzi ni gani😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Unaweza make plans  zako vizuuri alafu KCB ikuharibie siku😂🙌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Kuna mubaba ameniambia hapa kwa club nimwachie dem yangu na yeye aninunulie Jack Daniels, guess what..😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Avoid friends with supp. It's contagious.",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Nlienda home nkapata mathe anaita bro wangu ati mtu wa mkono,,,,kumbe gaiddi alipatwa akinyonga😂😂😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Stop bathing everyday if you're not in a relationship. You're wasting water! 😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Hakuna surgery ya kuongeza brain twende?😃😃",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Lakini kama uko online saa hii, you have a long way to go😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "t",
+        "meme": "I'm the friend mwenye atakudinyia bibi, avoid me. \n💪🤞",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Ukipata bubu mdinye, we're human too😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Avoid boys who's main concern is shoes and clothes 😏😏",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Wezi Nairobi wakikuibia wanakuambia uimbe ndio wajue hujakasirika😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Wenye hamna chupa ya soda,huwa mnapikia ugali na nini😂🤔🤔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Me searching  \"Kimimi kimimi\" on YouTube kumbe anakuwanga akisema \"Ymih Ymih Ymih\"🤣",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Babygirl ameongelelea football kuliko Fabrizio Romano 😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Hiyo sauti ya burna boy huniudhi sana,jamaa huongea nikama amemeza steelwire😂💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Nilikuwa kwa nyumba alafu nilikuwa nimewasha torch ya simu nikaenda kuizimia kwa switch ya bulb 😑😑💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Condom size should be increased, wengine wetu tunavaa inakaa croptop😂💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "DNA after graduation is so important,  you can't be feeding wrong parents😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unapea mwanaume heshima alafu unapata analalanga kwa kitanda😂😂🚮",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Madem mnashangaa mbna wanaume hatukondi kumbe huwa tunakula mayai zinamea tena😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "CD ikipotelea ndani ya dame huwa mnaitafuta aje it's urgent😂😂🤲",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "You know whether you like it or not boobs will always be greater than ass",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Vijana wadogo mnatoanga pesa wapi? 😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "If 666 is all evil, then 25.806 is the root of all evil.😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Apart from kukula fare,nini ingine unajua kuhusu madem wanaitwa wambo?😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "How long should a guy chase a woman before giving up?😹",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Am already missing Uhuru Kenyatta. This Gachagua and Ruto memes are tasteless 😏",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Lets stop judging people who love money.If your happiness is poverty focus on it",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Halafu hiyo ngotha yako moja utaosha lini?😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kumbe \"nikuone lini\" inamaanisha hivo?😖na hamsemi??😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Ukipata chance ya kuingiza dem Anal mkiwa doggy usiwaste💀😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Men invented pool games so they can hang out and watch each other bend over.😂💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kama unapata maziwa ya bure, usinunue ng'ombe.😌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unaamka unapata blunt ulieka chini ya kiti iko kwa meza na wazazi wameisurround😪😂😂😎💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Babe am sleepy let's talk tommorrow 6 minutes later \"The number you are calling is on another call\"💔😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Calling her “Wan-gui” because she likes doggy style 💀😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Usikubali kuja juu! Acha akugware tu na chini ndo best!😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "What do we call a mother who is short.. “minimum” 😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Apart from I love you like a brother which other statement hurts so bad 🌝😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Ndo kuendea mandazi bila bra😄",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Manchester united or Chelsea ?",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "I'm tired of watching porn 😭",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unakumbuka ukisoma fishing in Japan na kwenu ni Dagoretti 😂😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Sisi ugly niggas hukumbukwa time ya \"I need a favour\".😂🙌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "\"Gate A kuna mvua lakini gate B iko free,shida tu ni matope!!unaona ukiweza\"?❔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Nasinzia nikikuwaza😫😫😫😍",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Nataka kuwachana kabisa na mambo ya wanaume😂😪",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Wenye wako online sai ni single souls peke yao 😂😂😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Crying while explaining is a different type of pain...wueeh😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Saa hii niko na doo btw. Naezadinya chali na nimlipe.\n✌️😌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Ukiona unaibiwa creativity, enda fungua YouTube channel 😂👍",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Miondoko imeanza kushika acha sasa nianze kuondoka na simu zimewekwa vibaya😂💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Masaa ni ya kuclear history Gerrit😂?",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Incase you miss my voice you can just call we talk.",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unatoka ng'ambo kitu ya kwanza ni kuenda road trip na Nyaguthii. I swear to God 😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unazaliwa aje 2002 kama hukuwa unataka kuzaliwa si ungesema tu babako amwage nje💀😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Hii 20bob nimebakisha inaweza afford supper Gani na nishibe?😌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unapata mwanaume darkskin anakuambia i will light your world...light what otieno😒😅",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Pengine Huwa tunaishi siku Moja alafu hizo zingine Huwa zinajirudia.",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Unaomba beshte wako simu umpigie mamako unapata amemsave Mumama wa Harrier💞😹💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "If lecturer ask me Questions I don't know in exam, I always give him answers he doesn't know so that we can be equal 😎",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kuna mabeshte siwezi kubali wanidonatie damu,unawekwa damu unableki💀😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kama unalala peke yako leo Tena , SHAME ON YOU.😂😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Venye whatsapp status yangu na ya ex zinabishana naona tutakuwa na world war soon 😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Nmekula lunch Leo naskia kizunguzungu, wallai hii maneno sjazoea😂💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kitambo , I used to think madem uoga daily 🤔😂😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Another boring day without being told \"you mean alot to me\"😂😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kama kawaida ikiwa uko na goodnight mbili nisukumie moja 😂😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Tunafungua mzinga unaichukua unaanza kudance nayo ati ni miondoko na ukiangusha🧐💀😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Mnataka Gafament itupee Free Wifi ama Free Unga? 😹",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Mi nataka kujua Wameru pesa ya kulipa Ruger walitoa wapi na vile huko kuna kiangazi😬",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Mbona sisi tunaeza mbao lakini mbao haziezi tu sisi😂🤔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Mwanaume akiishi solo hukula some weird combinations of food\nLeo nimekula chips nduma lakini niko uhai😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Huna ndevu alafu unavaa durag,huoni unakaa wamama wa guild😂💔",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kwa fruits of the holy spirit nimekula joy, je wewe?😂😁",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "t",
+        "meme": "Unakula cuzo yako alafu unaskia amekuambia “pia wewe uko na birth mark kwa kifua kama babako”😂💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Being an African man is so cool, you refuse to give your relatives money then they blame your wife😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "Kama bado hua mna nyoga na Mikono u have a long way to go 😂😂😭\nTafuta kitu kama mtungi hivi💀",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "If Rigathi is Riggy G then Ruto is Ruty Wii.😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Invite your friends & get a badge"
+    },
+    {
+        "ads": "f",
+        "meme": "The truth will set you free ameambiana ukweli kwa korti akafungwa maisha.😂🙌",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Married men be watching a football game with their sidechicks and you hear them claiming that the referee is cheating😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Try out our Pro version"
+    },
+    {
+        "ads": "f",
+        "meme": "Haga kubwa huwa praised kwa public lakini kwa mechi petites are winning😂😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Memes on the double ✌️"
+    },
+    {
+        "ads": "t",
+        "meme": "Mwanaume uko na pillow kwa nyumba ya nini 🤔😂",
+        "nav": "f",
+        "pay": "f",
+        "title": "Memes on the double ✌️"
+    }
+]
